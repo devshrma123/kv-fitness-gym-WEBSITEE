@@ -1,0 +1,7 @@
+{
+  "name": "KV Fitness Gym Management",
+  "description": "An industrial management system for KV Fitness Gym to handle member registrations, supplement sales, and analytics with a futuristic UI. This version includes photo capture and enhanced real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
